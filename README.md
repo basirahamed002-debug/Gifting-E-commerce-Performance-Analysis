@@ -1,7 +1,4 @@
 
-E-commerce Sales &amp; Customer Insights Dashboard: An end-to-end data analysis project exploring customer behavior, product performance, and delivery logistics for a multi-category gifting platform. Includes datasets for orders, products, and customers, with calculated metrics for revenue and delivery efficiency.
-# Gifting Industry Sales & Customer Analytics
-
 ## 📌 Project Overview
 This project focuses on analyzing sales data from a gifting platform to uncover trends in customer purchasing behavior, regional demand, and operational efficiency. By examining datasets across customers, products, and orders, this analysis identifies high-performing categories (like Soft Toys and Sweets) and peak seasonal demand periods (Valentine's Day, Raksha Bandhan, etc.).
 
